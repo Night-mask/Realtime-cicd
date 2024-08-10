@@ -1,0 +1,16 @@
+{
+  "name": "basic-nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Project with Express Framework and Running in Docker Container",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Elango",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest"
+  },
+  "devDependencies": {}
+}
+
