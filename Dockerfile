@@ -1,5 +1,8 @@
 FROM node:alpine
-COPY ./ ./
-RUN npm install
-EXPOSE 8080
-CMD ["npm","start"]
+WORKDIR /app
+COPY package*.json ./
+RUN npm install --production
+COPY . .
+EXPOSE 3000
+CMD ["npm", "start"]
+
