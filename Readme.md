@@ -29,10 +29,10 @@ Prerequisites
 - GitHub Account: To clone the repository.
 - Docker Hub Account: To push Docker images.
 
+![Screenshot from 2024-08-24 10-10-53](https://github.com/user-attachments/assets/6a2b0151-94cb-4465-b1fd-522673d68ea9)
 
-file:///home/elangovan/Pictures/Screenshots/Screenshot%20from%202024-08-24%2010-10-53.png
 
-file:///home/elangovan/Pictures/Screenshots/Screenshot%20from%202024-08-24%2010-12-06.png
+![Screenshot from 2024-08-24 10-12-06](https://github.com/user-attachments/assets/5d069bac-1f2f-48f4-b889-5ce76bf39370)
 
-file:///home/elangovan/Pictures/Screenshots/Screenshot%20from%202024-08-24%2010-13-37.png
+![Screenshot from 2024-08-24 10-13-37](https://github.com/user-attachments/assets/0d000e37-2017-4a47-a01e-07e286a7b33d)
 
